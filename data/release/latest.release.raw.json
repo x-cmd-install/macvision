@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 241796,
       "digest": "sha256:49a5cbf2a3b1489e00eefcb7c2bf071cf89fb77a9f6606efb658a0065883496f",
-      "download_count": 48,
+      "download_count": 49,
       "created_at": "2026-07-03T13:18:03Z",
       "updated_at": "2026-07-03T13:18:03Z",
       "browser_download_url": "https://github.com/ljh-sh/macvision/releases/download/v0.2.0/macvision-darwin-universal.tar.xz"
