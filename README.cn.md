@@ -4,7 +4,7 @@
 
 Turn any image into agent-friendly JSON — local macOS OCR & vision via Apple's Vision framework. No model, no uploads, no per-call cost.
 
-![macvision](https://repo.x-cmd.io/macvision.svg)
+![macvision](https://repo.x-cmd.io/macvision.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,22 @@ x install macvision
 - **最新版本**: `v0.2.0` (2026-07-03)
 - **最近提交**: 2026-07-21
 - **Release 含资产**: 11 个
-- **发布时间**: 2026-07-03T13:18:04Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [BUILD_INFO.txt](https://github.com/ljh-sh/macvision/releases/download/v0.2.0/BUILD_INFO.txt) | 388 B | `other` |
+| [BUILD_INFO.txt.sigstore.json](https://github.com/ljh-sh/macvision/releases/download/v0.2.0/BUILD_INFO.txt.sigstore.json) | 10.0 KiB | `other` |
+| [macvision-darwin-arm64.tar.xz](https://github.com/ljh-sh/macvision/releases/download/v0.2.0/macvision-darwin-arm64.tar.xz) | 115.3 KiB | `native/darwin/arm64` |
+| [macvision-darwin-arm64.tar.xz.sigstore.json](https://github.com/ljh-sh/macvision/releases/download/v0.2.0/macvision-darwin-arm64.tar.xz.sigstore.json) | 10.1 KiB | `native/darwin/arm64` |
+| [macvision-darwin-universal.tar.xz](https://github.com/ljh-sh/macvision/releases/download/v0.2.0/macvision-darwin-universal.tar.xz) | 236.1 KiB | `native/darwin/x64` |
+| [macvision-darwin-universal.tar.xz.sigstore.json](https://github.com/ljh-sh/macvision/releases/download/v0.2.0/macvision-darwin-universal.tar.xz.sigstore.json) | 9.9 KiB | `native/darwin/x64` |
+| [macvision-darwin-x64.tar.xz](https://github.com/ljh-sh/macvision/releases/download/v0.2.0/macvision-darwin-x64.tar.xz) | 139.2 KiB | `native/darwin/x64` |
+| [macvision-darwin-x64.tar.xz.sigstore.json](https://github.com/ljh-sh/macvision/releases/download/v0.2.0/macvision-darwin-x64.tar.xz.sigstore.json) | 10.1 KiB | `native/darwin/x64` |
+| [multiple.intoto.jsonl](https://github.com/ljh-sh/macvision/releases/download/v0.2.0/multiple.intoto.jsonl) | 22.6 KiB | `other` |
+| [SHA256SUMS](https://github.com/ljh-sh/macvision/releases/download/v0.2.0/SHA256SUMS) | 371 B | `other` |
+| [SHA256SUMS.sigstore.json](https://github.com/ljh-sh/macvision/releases/download/v0.2.0/SHA256SUMS.sigstore.json) | 10.1 KiB | `other` |
 
 ## 流行度
 
@@ -72,4 +87,4 @@ macvision 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:12:29Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:53:50Z._

@@ -23,7 +23,22 @@ x install macvision
 - **Latest**: `v0.2.0` (2026-07-03)
 - **Last commit**: 2026-07-21
 - **Assets in release**: 11
-- **Published**: 2026-07-03T13:18:04Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [BUILD_INFO.txt](https://github.com/ljh-sh/macvision/releases/download/v0.2.0/BUILD_INFO.txt) | 388 B | `other` |
+| [BUILD_INFO.txt.sigstore.json](https://github.com/ljh-sh/macvision/releases/download/v0.2.0/BUILD_INFO.txt.sigstore.json) | 10.0 KiB | `other` |
+| [macvision-darwin-arm64.tar.xz](https://github.com/ljh-sh/macvision/releases/download/v0.2.0/macvision-darwin-arm64.tar.xz) | 115.3 KiB | `native/darwin/arm64` |
+| [macvision-darwin-arm64.tar.xz.sigstore.json](https://github.com/ljh-sh/macvision/releases/download/v0.2.0/macvision-darwin-arm64.tar.xz.sigstore.json) | 10.1 KiB | `native/darwin/arm64` |
+| [macvision-darwin-universal.tar.xz](https://github.com/ljh-sh/macvision/releases/download/v0.2.0/macvision-darwin-universal.tar.xz) | 236.1 KiB | `native/darwin/x64` |
+| [macvision-darwin-universal.tar.xz.sigstore.json](https://github.com/ljh-sh/macvision/releases/download/v0.2.0/macvision-darwin-universal.tar.xz.sigstore.json) | 9.9 KiB | `native/darwin/x64` |
+| [macvision-darwin-x64.tar.xz](https://github.com/ljh-sh/macvision/releases/download/v0.2.0/macvision-darwin-x64.tar.xz) | 139.2 KiB | `native/darwin/x64` |
+| [macvision-darwin-x64.tar.xz.sigstore.json](https://github.com/ljh-sh/macvision/releases/download/v0.2.0/macvision-darwin-x64.tar.xz.sigstore.json) | 10.1 KiB | `native/darwin/x64` |
+| [multiple.intoto.jsonl](https://github.com/ljh-sh/macvision/releases/download/v0.2.0/multiple.intoto.jsonl) | 22.6 KiB | `other` |
+| [SHA256SUMS](https://github.com/ljh-sh/macvision/releases/download/v0.2.0/SHA256SUMS) | 371 B | `other` |
+| [SHA256SUMS.sigstore.json](https://github.com/ljh-sh/macvision/releases/download/v0.2.0/SHA256SUMS.sigstore.json) | 10.1 KiB | `other` |
 
 ## Popularity
 
@@ -68,8 +83,8 @@ Lowest-scoring checks:
 Install metadata for macvision lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `macvision` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/macvision.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/macvision.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:12:28Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:53:49Z._
