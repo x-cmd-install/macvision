@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 388,
       "digest": "sha256:bb61b763370687bce3f1a3c54f007791552b2b9b66340d4c837e494649e1db53",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-07-03T13:18:03Z",
       "updated_at": "2026-07-03T13:18:03Z",
       "browser_download_url": "https://github.com/ljh-sh/macvision/releases/download/v0.2.0/BUILD_INFO.txt"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 118032,
       "digest": "sha256:b3b33746e06871d58ce4e76d698029490c0ee6bcccfee58f6f33f00679e55d65",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-07-03T13:18:03Z",
       "updated_at": "2026-07-03T13:18:03Z",
       "browser_download_url": "https://github.com/ljh-sh/macvision/releases/download/v0.2.0/macvision-darwin-arm64.tar.xz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 241796,
       "digest": "sha256:49a5cbf2a3b1489e00eefcb7c2bf071cf89fb77a9f6606efb658a0065883496f",
-      "download_count": 57,
+      "download_count": 58,
       "created_at": "2026-07-03T13:18:03Z",
       "updated_at": "2026-07-03T13:18:03Z",
       "browser_download_url": "https://github.com/ljh-sh/macvision/releases/download/v0.2.0/macvision-darwin-universal.tar.xz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 371,
       "digest": "sha256:1becd64803b1987876b26ac2465cc4478d28392c331a2137ca02628f27a7ae05",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-07-03T13:18:03Z",
       "updated_at": "2026-07-03T13:18:03Z",
       "browser_download_url": "https://github.com/ljh-sh/macvision/releases/download/v0.2.0/SHA256SUMS"
