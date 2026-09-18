@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 142520,
       "digest": "sha256:ea38a3e15a01312451c85fa5da5752b940ab69fee2f5c565d0ad4febe4832fbc",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-07-03T13:18:03Z",
       "updated_at": "2026-07-03T13:18:03Z",
       "browser_download_url": "https://github.com/ljh-sh/macvision/releases/download/v0.2.0/macvision-darwin-x64.tar.xz"
