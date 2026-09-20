@@ -4,7 +4,7 @@
 
 Turn any image into agent-friendly JSON — local macOS OCR & vision via Apple's Vision framework. No model, no uploads, no per-call cost.
 
-![macvision](https://repo.x-cmd.io/macvision.svg)
+[![x-cmd/install — macvision Code Quality Monitoring Repo Card](https://repo.x-cmd.io/macvision.svg)](https://x-cmd.com/install/macvision)
 
 ## Install
 
@@ -26,13 +26,13 @@ Total: **3,449** lines of code across **30** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **7.8 / 10**
+Overall score: **8.5 / 10**
 
 Lowest-scoring checks:
 
-- **Maintained** (0/10) — project was created within the last 90 days. Please review its contents carefully
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Fuzzing** (0/10) — project is not fuzzed
+- **Contributors** (3/10) — project has 1 contributing companies or organizations -- score normalized to 3
 
 ## Source
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 5 | 17 | 5 | 0 | 0 | 16 |
-| last180d | 2026-03-22 | 5 | 17 | 5 | 0 | 0 | 21 |
-| 360d | 2025-09-23 | 5 | 17 | 5 | 0 | 0 | 21 |
-| last720d | 2024-09-28 | 5 | 17 | 5 | 0 | 0 | 22 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 4 | 12 | 5 | 0 | 0 | 6 |
+| last180d | 2026-03-24 | 5 | 17 | 5 | 0 | 0 | 21 |
+| 360d | 2025-09-25 | 5 | 17 | 5 | 0 | 0 | 21 |
+| last720d | 2024-09-30 | 5 | 17 | 5 | 0 | 0 | 22 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for macvision lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:23:48Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:29:34Z._
