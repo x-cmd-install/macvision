@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 388,
       "digest": "sha256:bb61b763370687bce3f1a3c54f007791552b2b9b66340d4c837e494649e1db53",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-07-03T13:18:03Z",
       "updated_at": "2026-07-03T13:18:03Z",
       "browser_download_url": "https://github.com/ljh-sh/macvision/releases/download/v0.2.0/BUILD_INFO.txt"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 10327,
       "digest": "sha256:6d819365f45fb69d08c9e6fb29a48c5fbf64912b3ee2a6651ba04a5bf8142fb9",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-07-03T13:18:03Z",
       "updated_at": "2026-07-03T13:18:03Z",
       "browser_download_url": "https://github.com/ljh-sh/macvision/releases/download/v0.2.0/macvision-darwin-arm64.tar.xz.sigstore.json"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 371,
       "digest": "sha256:1becd64803b1987876b26ac2465cc4478d28392c331a2137ca02628f27a7ae05",
-      "download_count": 13,
+      "download_count": 14,
       "created_at": "2026-07-03T13:18:03Z",
       "updated_at": "2026-07-03T13:18:03Z",
       "browser_download_url": "https://github.com/ljh-sh/macvision/releases/download/v0.2.0/SHA256SUMS"
