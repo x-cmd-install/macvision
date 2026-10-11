@@ -26,11 +26,11 @@ x install macvision
 
 ## OpenSSF Scorecard 评分
 
-总评分: **8.1 / 10**
+总评分: **7.8 / 10**
 
 评分最低的几项:
 
-- **Maintained** (4/10) — 5 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 4
+- **Maintained** (0/10) — 1 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Fuzzing** (0/10) — project is not fuzzed
 
@@ -58,12 +58,12 @@ x install macvision
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-12 | 0 | 1 | 5 | 0 | 0 | 0 |
-| last180d | 2026-04-13 | 5 | 17 | 5 | 0 | 0 | 0 |
-| 360d | 2025-10-15 | 5 | 17 | 5 | 0 | 0 | 0 |
-| last720d | 2024-10-20 | 5 | 17 | 5 | 0 | 0 | 22 |
+| 30d | 2026-09-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-13 | 0 | 1 | 5 | 0 | 0 | 1 |
+| last180d | 2026-04-14 | 5 | 17 | 5 | 0 | 0 | 21 |
+| 360d | 2025-10-16 | 5 | 17 | 5 | 0 | 0 | 21 |
+| last720d | 2024-10-21 | 5 | 17 | 5 | 0 | 0 | 22 |
 
 ## Release 资产
 
@@ -90,4 +90,4 @@ macvision 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261010.yml` · 2026-10-10T06:04:28Z._
+_数据快照: `data/card/261011.yml` · 2026-10-11T06:05:41Z._
